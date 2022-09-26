@@ -1,0 +1,55 @@
+.navbarContainer{
+    display: flex;
+    
+}
+
+.logoName{
+    font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+letter-spacing: 0.3px;
+color: white;
+margin-left: 2rem;
+}
+ 
+.leftSide{
+    display: flex;
+    margin-top: 5rem;
+    position: relative;
+}
+
+.innercircle{
+    position: absolute;
+    border: 24px solid #dc5de0;
+    opacity: 0.2;
+    border-radius: 50%;    
+    width: 169.75px;
+    height: 169.75px;
+    margin-left: 82rem;
+    margin-top: -4rem;
+}
+
+.outercircle{
+    position: absolute;
+    border: 24px solid #dc5de0;
+    opacity: 0.2;
+    border-radius: 50%;    
+    width: 239.75px;
+    height: 239.75px;
+    margin-left: 80rem;
+    margin-top: -6rem;
+
+}
+
+.rightLeftSideUL{
+    display: flex;
+    margin-left: 40rem;
+}
+
+.ULLIElements{
+    padding: 1rem;
+}
+
+.ULLIElements{
+    list-style: none;
+}

@@ -1,0 +1,21 @@
+.doubtContainer{
+    margin-top: -7rem;
+    width: 70vw;
+    text-align: center;
+    justify-content: center;
+    margin-left: 14rem;
+    background: #FFE5F7;
+    height: 65vh;
+    border-radius: 50px;
+    position: relative;
+    padding-top: 1.5rem;
+}
+
+.pinkLineDoubt{
+    position: absolute;
+    border: none;
+    border-top: 5px solid #F050BE;
+    width:6vw;
+    margin-top: -1.1rem;
+    margin-left: 30.8rem;
+}

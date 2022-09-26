@@ -1,0 +1,90 @@
+
+
+.slider{ 
+    width:80vw;
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 5rem;
+    margin-left: -7rem;
+}
+
+.slider::-webkit-scrollbar {
+    display: none;
+  }
+.commondiv{
+    display: flex;
+    padding-left: 5rem;
+}
+
+
+.sliderImages{
+    border-radius: 20px;
+    width: 19rem;
+    height: 15rem;
+}
+
+.lowerSliderContainer{
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+
+.lowerSliderContainerLeftSide{
+    margin-top: 4rem;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: -0.02em;
+    font-weight: 400;
+}
+
+.middleOne{
+    padding: 2.5rem;
+    margin-left: 7rem;
+    margin-right: 5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border: 1px solid  #31D0AA;
+    background-color:  #31D0AA;
+    border-radius: 90px 90px 0px 90px;
+    height: 20vh;
+}
+
+.rightSideLogo{
+    height: 7rem;
+    margin-top: 18.45rem;
+    margin-left: -2rem;
+    margin-right: 9rem;
+    border-radius: 90px 90px 90px 0px;
+}
+
+.imagesDescription{
+    width: 10vw;
+    text-align: start;
+    margin-left: 1rem;
+    margin-top: 5rem;
+}
+
+.pinkLineAfterpara{
+    border: none;
+    height: 1vh;
+    width:7vw;
+    border-top: 5px solid #F050BE;
+    margin-top: 8.5rem;
+    margin-left: -9.6rem;
+}
+
+.descriptionOne{
+    width: 11vw !important;
+}
+
+.descriptionTwo{
+    width: 11vw;
+}
+
+.pinkLineONE{
+    margin-left: -10.5rem;
+}
+
+.pinkLineTWO{
+    margin-left: -10.5rem;
+}

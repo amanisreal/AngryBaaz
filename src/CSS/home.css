@@ -1,0 +1,49 @@
+.homeContainer{
+    overflow: hidden;
+    height: 100vh;
+    background: url("../Resources/Rectangle\ 9470.png") no-repeat;
+}
+
+.lowerContainer{
+    display: flex;
+}
+
+.leftSideLowerContainer{
+    margin-top: 7rem;
+    margin-left: 10%;
+    letter-spacing: -2%;
+    color: white;
+    
+}
+
+.leftSideLowerContainer >span{
+    display: block;
+    font-size: 24px;
+    margin-bottom: -2.5rem !important;
+}
+
+.leftSideLowerContainer > h2{
+ 
+    font-style: bold;
+    font-size: 64px;
+    margin-bottom: -5.5rem;
+}
+
+.leftSideLowerContainer > button{
+    margin-top: 7rem;
+    background: transparent;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    color: white;
+    border-radius: 3px;
+    border: 3px solid white;
+    font-style: bold;
+    font-weight: 900;
+}
+
+.rightSideLowerContainer{
+   margin-left: 13rem;
+   margin-top: 4rem;
+    }

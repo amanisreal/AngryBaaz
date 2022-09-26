@@ -1,0 +1,221 @@
+.pinkLineServices{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 47%;
+    height: 0.51vh;
+    width: 6vw;
+    background: #F050BE;
+}
+
+.serviceContainer{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.planetLogoDiv{
+    position: relative;
+    height: 100vh;
+    background: url("../Resources/Ellipse\ 249\ \(1\).png") no-repeat center;
+    background-size: 33%;
+
+}
+
+.plantesLogo{
+    margin-top: 10rem;
+    height: 57vh;
+    border-radius: 50%;
+}
+.dotULLI{
+    list-style: none;
+}
+
+.dotONE, .dotTWO, .dotTHREE, .dotFOUR, .dotFIVE, .dotSIX, .dotSEVEN{
+    
+    border-radius: 50%;
+    height:3vh;
+    position: absolute;
+}
+
+.dotONE{
+    margin-top: 8rem;
+    margin-left: -2rem;
+}
+
+.dotTWO{
+    margin-top: 25rem;
+    margin-left: -16.1rem;
+}
+
+.dotTHREE{
+    margin-top: 15.5rem;
+    margin-left: -14.77rem;
+}
+
+.dotFOUR{
+    margin-top: 10.6rem;
+    margin-left: -10rem;
+}
+
+.dotFIVE{
+    margin-top: 10.6rem;
+    margin-left: 6.2rem;
+}
+
+.dotSIX{
+    margin-top: 15.5rem;
+    margin-left: 10.7rem;
+}
+
+.dotSEVEN{
+    margin-top: 25rem;
+    margin-left: 12.3rem;
+}
+
+.nameUL{
+    list-style: none;
+}
+
+.nameONE, .nameTWO, .nameTHREE, .nameFOUR, .nameFIVE, .nameSIX, .nameSEVEN{
+    position: absolute;
+}
+
+.nameONE{
+    margin-top: 28rem;
+    margin-left: 11rem;
+}
+
+.nameTWO{
+    margin-top: 11rem;
+    margin-left: 14rem;
+}
+
+.nameTHREE{
+    margin-top: 3rem;
+    margin-left: 33rem;
+}
+
+.nameFOUR{
+    margin-top: 0rem;
+    margin-left: 43.5rem;
+}
+
+.nameFIVE{
+    margin-top: 3rem;
+    margin-left: 56rem;
+}
+
+.nameSIX{
+    margin-top: 12rem;
+    margin-left: 71.5rem;
+}
+
+.nameSEVEN{
+    margin-top: 27rem;
+    margin-left: 71.5rem;
+}
+
+.dottedDashUL{
+    list-style: none;
+}
+
+.dottedDashONEONE, .dottedDashONETWO, .dottedDashTWOONE, .dottedDashTWOTWO, .dottedDashTHREEONE, .dottedDashTHREETWO, .dottedDashFOURONE, .dottedDashFOURTWO, .dottedDashFIVEONE, .dottedDashFIVETWO, .dottedDashSIXONE, .dottedDashSIXTWO, .dottedDashSEVENONE, .dottedDashSEVENTWO{
+    position: absolute;
+    height: 20vh;
+    border:none;
+    border-left: 3px dashed rgb(112, 109, 109);
+}
+
+.dottedDashSEVENONE{
+    transform: rotate(90deg);
+    margin-top: 21rem;
+    margin-left:64.4rem;
+}
+
+.dottedDashSEVENTWO{
+    transform: rotate(120deg);
+    height: 5vh;
+    margin-top: 25.1rem;
+    margin-left:70.1rem;
+}
+
+.dottedDashONEONE{
+    transform: rotate(90deg);
+    margin-top: 21rem;
+    margin-left:25.4rem;
+}
+
+.dottedDashONETWO{
+    transform: rotate(60deg);
+    height: 10vh;
+    margin-top: 24.449rem;
+    margin-left:18.9rem;
+}
+
+.dottedDashTWOONE{
+    transform: rotate(90deg);
+    margin-top: 10.9rem;
+    margin-left:27.4rem;
+}
+
+.dottedDashTWOTWO{
+    transform: rotate(120deg);
+    height: 10vh;
+    margin-top: 12.01rem;
+    margin-left:20.7rem;
+}
+
+.dottedDashTHREEONE{
+    height: 8vh;
+    margin-top: 6.5rem;
+    margin-left: 36.8rem;
+}
+
+.dottedDashTHREETWO{
+    height: 5vh;
+    margin-top: 4.5rem;
+    margin-left: 36rem;
+    transform: rotate(320deg);
+}
+
+.dottedDashFOURONE{
+    height: 13vh;
+    margin-top: 2rem;
+    margin-left: 44.78rem;
+}
+
+.dottedDashFIVEONE{
+    height:10vh;
+    margin-top: 6rem;
+    margin-left: 53rem;
+}
+
+.dottedDashFIVETWO{
+    height:7vh;
+    margin-top: 3.6rem;
+    margin-left: 54.3rem;
+    transform: rotate(60deg);
+}
+
+.dottedDashSIXONE{
+    margin-top: 10.9rem;
+    margin-left: 63.1rem;
+    transform: rotate(90deg);
+}
+
+.dottedDashSIXTWO{
+    height:8vh;
+    margin-top: 12.77rem;
+    margin-left: 69.29rem;
+    transform: rotate(60deg);
+}
+
+.servicesH3{
+    font-size: 25px;
+}
+
+.servicesH6{
+    margin-top: -1rem;
+    font-size: 15px;
+    margin-bottom: 6rem;
+}

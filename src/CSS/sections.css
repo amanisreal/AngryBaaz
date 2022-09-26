@@ -1,0 +1,118 @@
+.sectionContainer{
+    display: flex;
+    margin: 2rem;
+    margin-top: 10rem;
+}
+
+.boxOne, .boxTwo, .boxThree, .boxFour{
+    padding-left: 5rem;
+    flex: 0.25;
+    height:50vh;
+}
+
+/* .{
+    color:rgb(132, 177, 255);
+    border-color: rgb(132, 177, 255);
+    color: black;
+    
+} */
+
+.queryOne, .designing, .development, .production{
+    position: relative;
+}
+
+.outercircleBoxOne, .outercircleBoxTwo, .outercircleBoxThree, .outercircleBoxFour{
+    position: absolute;
+    border: 12px solid rgba(246, 246, 247, 0.84);
+    border-radius: 50%;    
+    width: 169.75px;
+    height: 169.75px;
+}
+
+
+
+.querySentH3{
+    position: absolute;
+    margin-top: 13.5rem;
+    margin-left: 2.5rem;
+}
+
+.querySentPara{
+    position: absolute;
+    width: 13rem;
+    margin-top: 17rem;
+    color: rgb(150, 64, 64);
+    /* height: 30vh; */
+    /* padding-top: 31vh; */
+
+}
+
+.querySentLogo{
+    margin-top: 3.5rem;
+    margin-left: 3.5rem;
+}
+
+.sectionsHeading{
+    margin-left: 4rem;
+}
+
+.sectionsHeading>h2{
+    margin-bottom: -1.5rem;
+}
+
+.sectionsHeadingPinkLine{
+    border: none;
+    border-top: 4px solid #F050BE;
+    width: 14vw;
+}
+
+.lowerBottom{
+    display: flex;
+    margin-left: 7rem;
+}
+
+.lowerBottomleftSide{
+    margin-top: 4rem;
+width: 30vw;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: -0.02em;
+}
+
+.middleSide{
+    margin-top: 8rem;
+    margin-left: 4rem;
+    display: flex;
+}
+
+.middleSide>p{
+    font-size: 18px;
+    margin-top: -0.012rem;
+    margin-left: 1rem;
+}
+
+.blueBackground{
+    height:1.92rem;
+    position: relative;
+}
+
+.tick{
+    position: absolute;
+    margin-left: -1.3297rem;
+    margin-top: 0.65rem;
+}
+
+.rightSide{
+    margin-top: -11rem;
+    margin-left: 3rem;
+}
+
+.designingLogo{
+    margin-top: 3.75rem;
+    margin-left: 4rem;
+}
+
+.developmentLogo{
+    margin-top: 2.9rem;
+    margin-left: 2.9rem;
+}

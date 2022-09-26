@@ -1,0 +1,204 @@
+.topContainerTopics{
+    margin-left: 6rem;
+}
+
+.bottomContainerTopics{
+    display: flex;
+
+}
+
+.leftSideTopicsLower{
+    flex: 0.5;
+}
+
+.rightSideTopicsLower{
+    font-weight: 600;
+    flex: 0.5;
+    display: flex;
+}
+
+.leftSideOFRghtSide{
+    flex: 0.5;
+}
+
+.rightSideOFRightSide{
+    flex: 0.5;
+}
+
+.commonDescriptionPara{
+    width: 15vw;;
+}
+
+.pinkLineFORALL{
+    border: none;
+    border-top: 4px solid #f050f0;
+    width:8vw;
+}
+
+.linedatabase{
+    border-color: #31D0AA;
+}
+
+.lineblock{
+    border-color: #FF3131;
+}
+
+.lineweb{
+    border-color:#4B4DED;
+}
+
+.lineaiml{
+    border-color: #F4C751;
+}
+
+.linegamingL{
+    border-color: #F4C751;
+}
+
+.leftweblogo{
+    margin-bottom: 0.4rem;
+    padding: 0.1rem;
+}
+
+.leftTWO{
+    margin-top: 4rem;
+}
+
+.leftTHREE{
+    margin-top: 4rem;
+}
+
+.pinkLineForMe{
+    border: none;
+    border-top: 6px solid #f050f0;
+    width: 10vw;
+}
+
+.leftSideTopicsLower{
+    text-align: center;
+}
+
+.leftSideTopicsLower{
+    position: relative;
+}
+
+.commonUlLI{
+    position: absolute;
+}
+
+.bigPinkLine{
+    position: absolute;
+    
+    width: 40vw;
+    transform: rotate(90deg);
+    margin-top: 24rem;
+    margin-left: 5rem;
+    border-top: 10px solid #f050be;
+    border-radius: 20px;
+}
+
+.differentTopics{
+    border: 2px solid #f050be;
+    margin-left: 12rem;
+    width: 20vw;
+}
+
+.aimltext, .nodetext, .databasetext, .mysqltext, .reacttext{
+    border: 2px solid rgb(206, 198, 198);
+    width: 10vw;
+    
+    border-radius: 20px;
+}
+
+.aimltext{
+    margin-top: 3.7rem;
+    margin-left: 12rem;
+    border-right: none;
+}
+
+.nodetext{
+    margin-top: 10rem;
+    margin-left: 21.6rem;
+}
+
+.databasetext{
+    margin-top: 18rem;
+    margin-left: 12.2rem;
+}
+
+.mysqltext{
+    margin-top: 25rem;
+    margin-left: 21.6rem;
+}
+
+.reacttext{
+    margin-top: 33rem;
+    margin-left: 12.2rem;
+}
+
+.outerCircleForBigPink, .outerforAi, .outerfornode, .outerfordata, .outerformysql, .outerforReact{
+    border: 3px solid white;
+    border-radius: 50%;
+    position: absolute;
+    
+
+}
+
+.outerCircleForBigPink{
+    height: 3vh;
+    width: 1.5vw;
+    margin-left: 8.67rem;
+    margin-top: -1rem;
+}
+
+.outerforAi{
+    background-color: #f050be;
+    height: 1.8vh;
+    width: 0.71vw;
+    margin-top: -1.211rem;
+    margin-left: 8.96rem;
+}
+
+.outerfornode{
+    background-color: #f050be;
+    height: 1.8vh;
+    width: 0.71vw;
+    margin-top: -1.3rem;
+    margin-left: -0.51rem; 
+}
+
+.outerfordata{
+    background-color: #f050be;
+    height: 1.8vh;
+    width: 0.71vw;
+    margin-top: -1.3rem;
+    margin-left: 8.8rem; 
+}
+
+.outerformysql{
+    background-color: #f050be;
+    height: 1.8vh;
+    width: 0.71vw;
+    margin-top: -1.3rem;
+    margin-left: -0.5rem;
+}
+
+.outerforReact{
+    background-color: #f050be;
+    height: 1.8vh;
+    width: 0.71vw;
+    margin-top: -1.3rem;
+    margin-left: 8.8rem;
+}
+
+.differentTopicsCircle, .pinkforAi, .pinkfornode, .pinkfordata, .pinkfordata, .pinkformysql, .pinkforReact{
+    position: absolute;
+    background: #f050be;
+    border-radius: 50%;
+   
+}
+
+.differentTopicsCircle{
+    height: 3vh;
+    width: 1.5vw;
+}

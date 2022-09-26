@@ -1,0 +1,57 @@
+.footerContainer{
+    background: url("../Resources//Rectangle9467.png");
+    color:white;
+    display: flex;
+    height: 40vh;
+    overflow: hidden;
+}
+
+
+.leftSide{
+    
+    margin-left: 5rem;
+    margin-top: 1.02rem;
+}
+
+.commonUL{
+    list-style: none;
+    
+}
+
+.commonH3{
+    margin-left: 2.5rem;
+}
+
+.commonLI{
+    padding-top: 1.2rem;
+}
+
+.rightSideFooter{
+    position: relative;
+    
+}
+
+.innerCircle{
+    
+    position: absolute;
+    border: 52px solid rgba(255, 255, 255, 0.841);
+    border-radius: 50%;    
+    width: 199.75px;
+    height: 199.75px;
+    margin-left: 52rem;
+    margin-top: -2.4rem;
+    
+    overflow: hidden;
+}
+
+.outerCircle{
+
+    overflow: hidden;
+    position: absolute;
+    border: 48px solid rgba(255, 255, 255, 0.841);
+    border-radius: 50%;    
+    width: 339.75px;
+    height: 339.75px;
+    margin-left: 48rem;
+    margin-top: -6.6rem;
+}
